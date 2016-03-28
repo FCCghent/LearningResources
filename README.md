@@ -9,6 +9,8 @@ Resources and material on different web development subjects to improve your ski
 * [Udemy](https://www.udemy.com/)
 * [Udacity](https://www.udacity.com)
 * [The Next Web Deals](https://deals.thenextweb.com/)
+* [codepen](https://codepen.io)
+* [sitepoint](http://www.sitepoint.com)
 
 ## YouTube channels
 * [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
